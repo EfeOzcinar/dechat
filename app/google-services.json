@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450263745600",
+    "project_id": "dechat-5ca03",
+    "storage_bucket": "dechat-5ca03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450263745600:android:11784e2ad96a306f4c0ba5",
+        "android_client_info": {
+          "package_name": "com.example.dechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450263745600-flrnlkk7gfefnf655eum1o5apg53l04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWEtvLZUve7_k_xbPqcgZaNhfm7mapIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450263745600-flrnlkk7gfefnf655eum1o5apg53l04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
